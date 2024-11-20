@@ -1,0 +1,16 @@
+{
+  "name": "Portafolio PWA",
+  "short_name": "Portafolio",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#dd6802",
+  "icons": [
+    {
+      "src": "assets/images/Portfolio.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "categories": ["portfolio", "spa"]
+}
